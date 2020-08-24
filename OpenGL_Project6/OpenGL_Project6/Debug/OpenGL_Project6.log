@@ -1,0 +1,20 @@
+﻿  Light.cpp
+d:\c++\opengl_project6\opengl_project6\light.cpp(122): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project6\opengl_project6\light.cpp(131): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\c++\opengl_project6\opengl_project6\light.cpp(132): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\c++\opengl_project6\opengl_project6\light.cpp(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project6\opengl_project6\light.cpp(198): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project6\opengl_project6\light.cpp(202): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project6\opengl_project6\light.cpp(203): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project6\opengl_project6\light.cpp(205): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project6\opengl_project6\light.cpp(206): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project6\opengl_project6\light.cpp(213): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  OpenGL_Project6.vcxproj -> D:\C++\OpenGL_Project6\Debug\OpenGL_Project6.exe
