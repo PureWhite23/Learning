@@ -1,0 +1,10 @@
+﻿  CubeMaps.cpp
+d:\c++\opengl_project9\opengl_project9\cubemaps.cpp(193): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project9\opengl_project9\cubemaps.cpp(278): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project9\opengl_project9\cubemaps.cpp(279): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project9\opengl_project9\cubemaps.cpp(283): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project9\opengl_project9\cubemaps.cpp(284): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project9\opengl_project9\cubemaps.cpp(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project9\opengl_project9\cubemaps.cpp(287): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project9\opengl_project9\cubemaps.cpp(296): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  OpenGL_Project9.vcxproj -> D:\C++\OpenGL_Project9\Debug\OpenGL_Project9.exe
