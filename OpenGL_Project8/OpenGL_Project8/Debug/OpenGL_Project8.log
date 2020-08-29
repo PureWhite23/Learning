@@ -1,0 +1,10 @@
+﻿  Blend.cpp
+d:\c++\opengl_project8\opengl_project8\blend.cpp(180): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project8\opengl_project8\blend.cpp(269): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project8\opengl_project8\blend.cpp(270): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project8\opengl_project8\blend.cpp(274): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project8\opengl_project8\blend.cpp(275): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project8\opengl_project8\blend.cpp(277): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project8\opengl_project8\blend.cpp(278): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project8\opengl_project8\blend.cpp(287): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  OpenGL_Project8.vcxproj -> D:\C++\OpenGL_Project8\Debug\OpenGL_Project8.exe
