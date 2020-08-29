@@ -1,0 +1,11 @@
+﻿  AdvancedOpenGL.cpp
+d:\c++\opengl_project7\opengl_project7\advancedopengl.cpp(142): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project7\opengl_project7\advancedopengl.cpp(187): warning C4305: “初始化”: 从“double”到“float”截断
+d:\c++\opengl_project7\opengl_project7\advancedopengl.cpp(249): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project7\opengl_project7\advancedopengl.cpp(250): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project7\opengl_project7\advancedopengl.cpp(254): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project7\opengl_project7\advancedopengl.cpp(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project7\opengl_project7\advancedopengl.cpp(257): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project7\opengl_project7\advancedopengl.cpp(258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c++\opengl_project7\opengl_project7\advancedopengl.cpp(267): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  OpenGL_Project7.vcxproj -> D:\C++\OpenGL_Project7\Debug\OpenGL_Project7.exe
